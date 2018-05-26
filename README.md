@@ -1,11 +1,13 @@
 
-GTÜ Bitirme Çalışması I
+GTÜ Bitirme Çalışması II
 
 
-R-Ɵ TARAYICI İLE BİLGİSAYAR KONTROLLÜ HALKA ANTEN RADYASYON PATERNİ ÖLÇÜM DÜZENEĞİ GELİŞTİRİLMESİ
+R-Ø TARAYICI İLE BİLGİSAYAR KONTROLLÜ HALKA ANTEN RADYASYON PATERNİ ÖLÇÜM DÜZENEĞİ GELİŞTİRİLMESİ
 
 
-Bu projede Labview ve Energia Kodlarını Bulabilirsiniz.
+Bu projede Labview Kodlarını Bulabilirsiniz.
+
+R-Ø Tarayıcıyı sürmek için RAMPS1.4 Kit ve yazılım olarak Marlin Firmware kullanılmıştır.
 
 Mesut KILIÇ
 
